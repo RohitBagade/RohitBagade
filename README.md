@@ -1,6 +1,6 @@
 <div align="center">
 
-![Rohit Bagade · Chapter 04: The Senior Arc · Senior Backend Engineer](assets/hero.svg)
+<a href="https://www.linkedin.com/in/rohit-bagade-1351661bb/"><img src="assets/manga/1-hero.jpg" width="100%" alt="Hi, I'm Rohit Bagade. Senior Backend Engineer · Java · Spring Boot · Kafka. Manga illustration of a developer on a Mumbai rooftop at night, saying: Same guy. Higher goals."/></a>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-140b24?style=for-the-badge&logo=vercel&logoColor=white)](https://rohit-bagade.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-140b24?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-bagade-1351661bb/)
@@ -8,16 +8,11 @@
 
 **Senior Backend Engineer at Accelya: airline revenue accounting, Java microservices, GDPR tokenization.**
 
+<img src="assets/manga/2-chapters.jpg" width="100%" alt="Origin story: B.E. Electronics, RAIT (2022), joined Accelya as Software Engineer I; SDE-1 to SDE-2 to Senior in 4 years. Current arc: leading GDPR tokenization, PII stored as tokens and revealed on demand, OAuth2 service layer, 17 screens migrated with an audit event per reveal. Power stack: Java, Python, SQL, PL/SQL, TypeScript, Spring Boot, Hibernate, Microservices, Kafka, REST, OAuth2, Oracle, PostgreSQL, MySQL, Redis, MongoDB, AWS Lambda, Docker, Tomcat, Git, GitHub Actions, Linux."/>
+
+<img src="assets/manga/3-finale.jpg" width="100%" alt="Boss battles defeated: PL/SQL to Java migration, self-deadlock in a save path, Tomcat transaction handling, deployment race conditions. Open missions: Senior Backend / SDE-2 in Mumbai, Pune, Bengaluru or remote. Achievements: Top 3 Accelya internal hackathon (2026), 2 promotions in 4 years, ~1–2M+ records a day, 17 screens moved to GDPR tokenization, 4–5 PL/SQL services migrated to Java, 350+ DSA problems solved."/>
+
 </div>
-
-![Origin story: B.E. Electronics 2022, joined Accelya, SDE-1 to Senior in 4 years. Current arc: leading GDPR tokenization, 17 screens migrated](assets/chapters.svg)
-
-### POWER STACK · Gear unlocked
-
-| Backend / Data | Cloud / Tools / AI |
-|:--|:--|
-| Java 17 · Spring Boot · Hibernate · REST · Microservices · Kafka | AWS Lambda · Docker · Tomcat · Linux · GitHub Actions · Git |
-| Oracle · PL/SQL · PostgreSQL · MySQL · Redis · MongoDB | Python · JavaScript / TypeScript · React · LLM integrations |
 
 ### SIDE QUESTS · Explore the source
 
@@ -27,10 +22,6 @@
 | **Interviewer Copilot** 🏆 | Live interview transcription + LLM answer analysis · Top 3, Accelya internal hackathon (Feb 2026) | [Repo](https://github.com/RohitBagade/interviewer-copilot) |
 | **APEX** | E-commerce: server-side re-pricing, money as integer paise, Stripe test checkout, admin dashboard | [Repo](https://github.com/RohitBagade/ProteinEcomSite) · [Live](https://frontend-drab-seven-89.vercel.app) |
 | **CalorieCounter.ai** | Plain-English meal → calories + macros with structured LLM output | [Repo](https://github.com/RohitBagade/CalorieCounter.ai) · [Live](https://caloriecounter-ai-rohit-bagades-projects.vercel.app) |
-
-![Boss battles defeated: PL/SQL to Java migration, self-deadlock in a save path, Tomcat transaction handling, deployment races. Open missions: Senior Backend / SDE-2](assets/missions.svg)
-
-![Level: Senior Engineer · Class: Java Backend · Guild: Accelya · Next quest: SDE-2 / Senior](assets/stats.svg)
 
 ### CONTRIBUTION ARC
 
@@ -45,4 +36,4 @@
 
 </details>
 
-<div align="center"><sub>IT'S A LONG GAME. AND I'M JUST GETTING STARTED.</sub></div>
+<div align="center"><sub>Illustrations AI-generated · IT'S A LONG GAME. AND I'M JUST GETTING STARTED.</sub></div>
