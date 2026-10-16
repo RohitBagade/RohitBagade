@@ -20,7 +20,8 @@ jobs:
             dist/snake-purple.svg?color_snake=#a34dff&color_dots=#1b1030,#3b1d63,#5b2a96,#8448c3,#d7a8ff
       - name: Publish to output branch
         run: |
-          cd dist
+          # dist/ is root-owned (written by the snk container), so publish from a copy
+          mkdir out && cp dist/* out/ && cd out
           git init -q -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
